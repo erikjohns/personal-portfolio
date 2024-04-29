@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Gold&Song';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../Fonts/Gold_Song.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gold&SongItalic';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../Fonts/Gold_Song_Italic.woff2') format('woff2');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Gold&Song', serif;
+}
